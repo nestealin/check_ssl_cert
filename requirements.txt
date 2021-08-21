@@ -1,0 +1,14 @@
+certifi==2019.11.28
+cffi==1.14.0
+chardet==3.0.4
+cryptography==2.8
+DateTime==4.3
+idna==2.9
+pycparser==2.20
+pyOpenSSL==19.1.0
+pytz==2019.3
+requests==2.23.0
+six==1.14.0
+urllib3==1.25.6
+zope.interface==5.0.1
+python-dateutil==2.8.1
